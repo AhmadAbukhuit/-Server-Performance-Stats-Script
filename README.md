@@ -1,4 +1,4 @@
-# -Server-Performance-Stats-Script
+# Server-Performance-Status-Script
 Script to analyse basic linux server performance stats using bash Script 
 
 The script are able to run on any linux server
